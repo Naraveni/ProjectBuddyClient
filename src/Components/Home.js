@@ -42,7 +42,7 @@ const Home = () => {
               variant="outlined"
               className="register-btn"
             >
-              Register
+              Register Hello
             </Button>
           </Link>
         </Box>
